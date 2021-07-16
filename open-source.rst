@@ -29,7 +29,7 @@ Languages
 * Julia
 
   .. image:: https://julialang.org/assets/infra/logo.svg
-     :width: 200
+     :width: 400
      :target: https://julialang.org/
             
   * `GitHub <https://github.com/JuliaGPU/oneAPI.jl>`__
@@ -62,7 +62,7 @@ Frameworks
      :width: 200
      :target: https://www.onnxruntime.ai/
 
-  * `GitHub <https://github.com/microsoft/onnxruntime>`__
+xs  * `GitHub <https://github.com/microsoft/onnxruntime>`__
   * `Doc <https://www.onnxruntime.ai/docs/>`__
 
 * Mxnet
@@ -124,6 +124,11 @@ Libraries
 
   * `GitHub <https://github.com/intel/compute-runtime>`__
   * `Doc <https://spec.oneapi.io/level-zero/latest/index.html>`__
+
+* `MPICH <https://www.mpich.org/>`__
+
+  * `GitHub <https://github.com/pmodels/mpich>`__
+  * `Doc <https://www.mpich.org/documentation/guides>`__
 
   
   
