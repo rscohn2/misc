@@ -35,8 +35,8 @@ Languages
   * `GitHub <https://github.com/JuliaGPU/oneAPI.jl>`__
   * `Doc <https://docs.julialang.org/en/v1>`__
 
-Frameworks
-==========
+AI
+==
 
 * TensorFlow
 
@@ -62,7 +62,7 @@ Frameworks
      :width: 200
      :target: https://www.onnxruntime.ai/
 
-xs  * `GitHub <https://github.com/microsoft/onnxruntime>`__
+  * `GitHub <https://github.com/microsoft/onnxruntime>`__
   * `Doc <https://www.onnxruntime.ai/docs/>`__
 
 * Mxnet
@@ -82,13 +82,51 @@ xs  * `GitHub <https://github.com/microsoft/onnxruntime>`__
   * `GitHub <https://github.com/paddlepaddle/paddle>`__
   * `Doc <https://github.com/paddlepaddle/paddle#documentation>`__
 
-Libraries
-=========
+* oneDAL
+
+  * `GitHub <https://github.com/oneapi-src/oneDAL>`__
+  * `Doc <https://github.com/oneapi-src/oneDAL/#documentation>`__
+
+* oneCCL
+
+  * `GitHub <https://github.com/oneapi-src/oneCCL>`__
+  * `Doc <https://oneapi-src.github.io/oneCCL/>`__
+
+* oneDNN
+
+  * `GitHub <https://github.com/oneapi-src/oneDNN>`__
+  * `Doc <https://oneapi-src.github.io/oneDNN/>`__
+
+Video, Ray Tracing, Rendering
+=============================
 
 * oneVPL
 
   * `GitHub <https://github.com/oneapi-src/oneVPL>`__
   * `Doc <https://spec.oneapi.io/versions/latest/elements/oneVPL/source/index.html>`__
+
+* `Embree <https://www.embree.org/>`__
+
+  * `GitHub <https://github.com/embree/embree>`__
+  * `Doc <https://github.com/embree/embree#using-embree>`__
+
+* `Open VKL <https://www.openvkl.org/>`__
+
+  * `GitHub <https://github.com/openvkl/openvkl>`__
+  * `Doc <https://www.openvkl.org/documentation.html>`__
+
+* `Open Image Denoise <https://www.openimagedenoise.org/>`__
+
+  * `GitHub <https://github.com/OpenImageDenoise/oidn>`__
+  * `Doc <https://www.openimagedenoise.org/documentation.html>`__
+
+* `OSPRay <https://www.ospray.org/>`__
+
+  * `GitHub <https://github.com/ospray/OSPRay>`__
+  * `Doc <https://www.ospray.org/documentation.html>`__
+
+Libraries
+=========
 
 * oneMKL
 
@@ -105,21 +143,6 @@ Libraries
   * `GitHub <https://github.com/oneapi-src/oneDPL>`__
   * `Doc <https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-library-guide/top.html>`__
 
-* oneDAL
-
-  * `GitHub <https://github.com/oneapi-src/oneDAL>`__
-  * `Doc <https://github.com/oneapi-src/oneDAL/#documentation>`__
-
-* oneDNN
-
-  * `GitHub <https://github.com/oneapi-src/oneDNN>`__
-  * `Doc <https://oneapi-src.github.io/oneDNN/>`__
-
-* oneCCL
-
-  * `GitHub <https://github.com/oneapi-src/oneCCL>`__
-  * `Doc <https://oneapi-src.github.io/oneCCL/>`__
-
 * Level Zero
 
   * `GitHub <https://github.com/intel/compute-runtime>`__
@@ -131,15 +154,10 @@ Libraries
   * `Doc <https://www.mpich.org/documentation/guides>`__
 
   
-  
 Tools
 =====
 
-* HPCToolkit
-
-  .. image:: http://hpctoolkit.org/style/header.gif
-     :width: 200
-     :target: http://hpctoolkit.org/
+* `HPCToolkit <http://hpctoolkit.org/>`__
 
   * `GitHub <https://github.com/HPCToolkit/hpctoolkit>`__
   * `Doc <https://github.com/HPCToolkit/hpctoolkit#documentation>`__
