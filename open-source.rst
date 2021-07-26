@@ -107,6 +107,11 @@ Data Science
   * `GitHub <https://github.com/oneapi-src/oneDAL>`__
   * `Doc <https://github.com/oneapi-src/oneDAL/#documentation>`__
 
+* daal4py
+
+  * `GitHub <https://github.com/intel/scikit-learn-intelex>`__
+  * `Doc <https://intelpython.github.io/daal4py/>`__
+
 * Scikit-learn
 
   .. image:: https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png
