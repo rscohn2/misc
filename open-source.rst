@@ -192,7 +192,7 @@ Libraries
 Tools
 =====
 
-* `HPCToolkit <http://hpctoolkit.org/>`__
+* `HPCToolkit <http://hpctoolkit.org/>`__ from Rice University
 
   * `GitHub <https://github.com/HPCToolkit/hpctoolkit>`__
   * `Doc <https://github.com/HPCToolkit/hpctoolkit#documentation>`__
