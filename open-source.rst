@@ -82,11 +82,6 @@ AI
   * `GitHub <https://github.com/paddlepaddle/paddle>`__
   * `Doc <https://github.com/paddlepaddle/paddle#documentation>`__
 
-* oneDAL
-
-  * `GitHub <https://github.com/oneapi-src/oneDAL>`__
-  * `Doc <https://github.com/oneapi-src/oneDAL/#documentation>`__
-
 * oneCCL
 
   * `GitHub <https://github.com/oneapi-src/oneCCL>`__
@@ -96,6 +91,22 @@ AI
 
   * `GitHub <https://github.com/oneapi-src/oneDNN>`__
   * `Doc <https://oneapi-src.github.io/oneDNN/>`__
+
+Data Science
+============
+
+* oneDAL
+
+  * `GitHub <https://github.com/oneapi-src/oneDAL>`__
+  * `Doc <https://github.com/oneapi-src/oneDAL/#documentation>`__
+
+* Modin
+
+  .. image:: https://modin.readthedocs.io/en/latest/_images/MODIN_ver2_hrz.png
+     :width: 200
+
+  * `GitHub <https://github.com/modin-project/modin>`__
+  * `Doc <https://modin.readthedocs.io/en/latest/>`__
 
 Video, Ray Tracing, Rendering
 =============================
