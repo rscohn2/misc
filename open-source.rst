@@ -18,12 +18,20 @@ Languages
   * `GitHub <https://github.com/illuhad/hipSYCL>`__
   * `Doc <https://github.com/illuhad/hipSYCL#documentation>`__
 
+* Numba
+  
+  .. image:: http://numba.pydata.org/_static/numba-blue-horizontal-rgb.svg
+     :width: 200
+
+  * `GitHub <https://github.com/IntelPython/numba-dppy>`__
+
 * Python
   
   .. image:: https://www.python.org/static/img/python-logo@2x.png
      :width: 200
 
-  * `GitHub <https://github.com/IntelPython/numba-dppy>`__
+  * `GitHub <https://github.com/IntelPython/dpctl>`__
+
 
 * Julia
 
@@ -98,6 +106,13 @@ Data Science
 
   * `GitHub <https://github.com/oneapi-src/oneDAL>`__
   * `Doc <https://github.com/oneapi-src/oneDAL/#documentation>`__
+
+* Scikit-learn
+
+  .. image:: https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png
+     :width: 200
+
+  * `GitHub <https://github.com/intel/scikit-learn-intelex>`__
 
 * Modin
 
