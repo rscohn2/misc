@@ -23,8 +23,7 @@ Languages
   .. image:: https://www.python.org/static/img/python-logo@2x.png
      :width: 200
 
-  * `GitHub <https://github.com/IntelPython/dpnp>`__
-  * `Doc <https://intelpython.github.io/dpnp/>`__
+  * `GitHub <https://github.com/IntelPython/numba-dppy>`__
 
 * Julia
 
@@ -143,6 +142,11 @@ Libraries
 
   * `GitHub <https://github.com/oneapi-src/oneMKL>`__
   * `Doc <https://github.com/oneapi-src/oneMKL/blob/develop/README.md>`__
+
+* dpNP
+  
+  * `GitHub <https://github.com/IntelPython/dpnp>`__
+  * `Doc <https://intelpython.github.io/dpnp/>`__
 
 * oneTBB
 
