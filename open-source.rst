@@ -19,8 +19,8 @@ Languages
   * `Doc <https://github.com/illuhad/hipSYCL#documentation>`__
 
 * Numba
-  
-  .. image:: http://numba.pydata.org/_static/numba-blue-horizontal-rgb.svg
+
+  .. image:: https://numba.pydata.org/_static/numba-blue-horizontal-rgb.svg
      :width: 200
 
   * `GitHub <https://github.com/IntelPython/numba-dppy>`__
