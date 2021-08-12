@@ -5,195 +5,334 @@
 Languages
 =========
 
-* DPC++
+|
 
-  * `GitHub <https://github.com/intel/llvm>`__
-  * `Doc <https://intel.github.io/llvm-docs/>`__
+DPC++
 
-* hipSYCL++
+Data parallel programming for CPU's and accelerators based on SYCL
 
-  .. image:: https://github.com/illuhad/hipSYCL/raw/develop/doc/img/logo/logo-color.png
-     :width: 200
+.. list-table::
 
-  * `GitHub <https://github.com/illuhad/hipSYCL>`__
-  * `Doc <https://github.com/illuhad/hipSYCL#documentation>`__
+  * - `GitHub <https://github.com/intel/llvm>`__
 
-* Numba
+|
 
-  .. image:: https://numba.pydata.org/_static/numba-blue-horizontal-rgb.svg
-     :width: 200
+.. image:: https://github.com/illuhad/hipSYCL/raw/develop/doc/img/logo/logo-color.png
+   :width: 200
 
-  * `GitHub <https://github.com/IntelPython/numba-dppy>`__
+hipSYCL++
 
-* Python
-  
+Library-based implementation of SYCL
+
+.. list-table::
+
+  * - `GitHub <https://github.com/illuhad/hipSYCL>`__
+
+|
+
+.. image:: https://numba.pydata.org/_static/numba-blue-horizontal-rgb.svg
+   :width: 200
+
+Numba
+
+Compiler for data parallel programming in Python
+
+.. list-table::
+
+  * - `GitHub <https://github.com/IntelPython/numba-dppy>`__
+      
+|
+
   .. image:: https://www.python.org/static/img/python-logo@2x.png
      :width: 200
 
-  * `GitHub <https://github.com/IntelPython/dpctl>`__
+DPCTL
 
+Python bindings for SYCL classes
 
-* Julia
+.. list-table::
+
+  * - `GitHub <https://github.com/IntelPython/dpctl>`__
+
+|
 
   .. image:: https://julialang.org/assets/infra/logo.svg
-     :width: 400
-     :target: https://julialang.org/
-            
-  * `GitHub <https://github.com/JuliaGPU/oneAPI.jl>`__
-  * `Doc <https://docs.julialang.org/en/v1>`__
-
-AI
-==
-
-* TensorFlow
-
-  .. image:: https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67
      :width: 200
-     :target: https://www.tensorflow.org/
+            
+Julia
 
-  * `GitHub <https://github.com/tensorflow/tensorflow>`__
-  * `Doc <https://www.tensorflow.org/guide>`__
+Compiler for data parallel programming in Julia
 
-* PyTorch
+.. list-table::
+
+  * - `GitHub <https://github.com/JuliaGPU/oneAPI.jl>`__
+    - `Web <https://julialang.org/>`__
+
+Deep Learning
+=============
+
+|
+
+.. image:: https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67
+     :width: 200
+
+TensorFlow
+
+Deep Learning Framework
+
+.. list-table::
+
+  * - `GitHub <https://github.com/tensorflow/tensorflow>`__
+    - `Web <https://www.tensorflow.org>`__
+
+|
 
   .. image:: https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png
      :width: 200
-     :target: https://pytorch.org/
 
-  * `GitHub <https://github.com/pytorch/pytorch>`__
-  * `Doc <https://pytorch.org/docs/stable/index.html>`__
+PyTorch
 
-* ONNX Runtime
+Deep Learning Framework
+
+.. list-table::
+
+  * - `GitHub <https://github.com/pytorch/pytorch>`__
+    - `Web <https://pytorch.org>`__
+
+|
 
   .. image:: https://github.com/microsoft/onnxruntime/raw/master/docs/images/ONNX_Runtime_logo_dark.png
      :width: 200
-     :target: https://www.onnxruntime.ai/
 
-  * `GitHub <https://github.com/microsoft/onnxruntime>`__
-  * `Doc <https://www.onnxruntime.ai/docs/>`__
+ONNX Runtime
 
-* Mxnet
+Deep Learning Framework
+
+.. list-table::
+
+  * - `GitHub <https://github.com/microsoft/onnxruntime>`__
+    - `Web <https://www.onnxruntime.ai>`__
+
+|
 
   .. image:: https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mxnet_logo_2.png
      :width: 200
-     :target: https://mxnet.apache.org/
 
-  * `GitHub <https://github.com/apache/incubator-mxnet>`__
-  * `Doc <https://mxnet.apache.org/versions/1.8.0/api>`__
+Mxnet
 
-* PaddlePaddle
+Deep Learning Framework
 
-  .. image:: https://github.com/PaddlePaddle/Paddle/raw/develop/doc/imgs/logo.png
+.. list-table::
+
+   * - `GitHub <https://github.com/apache/incubator-mxnet>`__ 
+     - `Web <https://mxnet.apache.org/>`__
+
+|
+
+.. image:: https://github.com/PaddlePaddle/Paddle/raw/develop/doc/imgs/logo.png
      :width: 200
 
-  * `GitHub <https://github.com/paddlepaddle/paddle>`__
-  * `Doc <https://github.com/paddlepaddle/paddle#documentation>`__
+PaddlePaddle
 
-* oneCCL
+Deep Learning Framework
 
-  * `GitHub <https://github.com/oneapi-src/oneCCL>`__
-  * `Doc <https://oneapi-src.github.io/oneCCL/>`__
+.. list-table::
 
-* oneDNN
+  * - `GitHub <https://github.com/paddlepaddle/paddle>`__
 
-  * `GitHub <https://github.com/oneapi-src/oneDNN>`__
-  * `Doc <https://oneapi-src.github.io/oneDNN/>`__
+|
+
+oneCCL
+
+Communication primitives for distributed deep learning
+
+.. list-table::
+
+  * - `GitHub <https://github.com/oneapi-src/oneCCL>`__
+
+|
+
+oneDNN
+
+Computation primitives for distributed deep learning
+
+.. list-table::
+
+  * - `GitHub <https://github.com/oneapi-src/oneDNN>`__
 
 Data Science
 ============
 
-* oneDAL
+|
 
-  * `GitHub <https://github.com/oneapi-src/oneDAL>`__
-  * `Doc <https://github.com/oneapi-src/oneDAL/#documentation>`__
+oneDAL
 
-* daal4py
+Accelerated machine learning algorithms for C++, Python, and Java
 
-  * `GitHub <https://github.com/intel/scikit-learn-intelex>`__
-  * `Doc <https://intelpython.github.io/daal4py/>`__
+.. list-table::
 
-* Scikit-learn
+  * - `GitHub <https://github.com/oneapi-src/oneDAL>`__
+
+|
+
 
   .. image:: https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png
      :width: 200
 
-  * `GitHub <https://github.com/intel/scikit-learn-intelex>`__
+Scikit-learn-intelex
 
-* Modin
+Accelerated Scikit-learn
+
+.. list-table::
+
+  - * `GitHub <https://github.com/intel/scikit-learn-intelex>`__
+
+|
 
   .. image:: https://modin.readthedocs.io/en/latest/_images/MODIN_ver2_hrz.png
      :width: 200
 
-  * `GitHub <https://github.com/modin-project/modin>`__
-  * `Doc <https://modin.readthedocs.io/en/latest/>`__
+Modin
+
+Accelerated Pandas
+
+.. list-table::
+
+  * - `GitHub <https://github.com/modin-project/modin>`__
 
 Video, Ray Tracing, Rendering
 =============================
 
-* oneVPL
+|
 
-  * `GitHub <https://github.com/oneapi-src/oneVPL>`__
-  * `Doc <https://spec.oneapi.io/versions/latest/elements/oneVPL/source/index.html>`__
+oneVPL
 
-* `Embree <https://www.embree.org/>`__
+Video decoding, encoding, and processing
 
-  * `GitHub <https://github.com/embree/embree>`__
-  * `Doc <https://github.com/embree/embree#using-embree>`__
+.. list-table::
 
-* `Open VKL <https://www.openvkl.org/>`__
+  - * `GitHub <https://github.com/oneapi-src/oneVPL>`__
 
-  * `GitHub <https://github.com/openvkl/openvkl>`__
-  * `Doc <https://www.openvkl.org/documentation.html>`__
+|    
 
-* `Open Image Denoise <https://www.openimagedenoise.org/>`__
+Embree
 
-  * `GitHub <https://github.com/OpenImageDenoise/oidn>`__
-  * `Doc <https://www.openimagedenoise.org/documentation.html>`__
+Geometric ray tracing kernel API
 
-* `OSPRay <https://www.ospray.org/>`__
+.. list-table::
 
-  * `GitHub <https://github.com/ospray/OSPRay>`__
-  * `Doc <https://www.ospray.org/documentation.html>`__
+  * - `GitHub <https://github.com/embree/embree>`__
+    - `Web <https://www.embree.org/>`__
+
+|
+
+OpenVKL
+
+Volumetric ray tracing kernel API
+
+.. list-table::
+
+  * - `GitHub <https://github.com/openvkl/openvkl>`__
+    - `Web <https://www.openvkl.org/>`__
+
+|
+
+Open Image Denoise
+
+High-fidelity [AI] image denoising
+
+.. list-table::
+
+  * - `GitHub <https://github.com/OpenImageDenoise/oidn>`__
+    - `Web <https://www.openimagedenoise.org>`__
+
+|
+
+OSPray
+
+Middleware Scalable Ray Tracing and Rendering API
+
+.. list-table::
+
+  * - `GitHub <https://github.com/ospray/OSPRay>`__
+    - `Web <https://www.ospray.org>`__
 
 Libraries
 =========
 
-* oneMKL
+|
 
-  * `GitHub <https://github.com/oneapi-src/oneMKL>`__
-  * `Doc <https://github.com/oneapi-src/oneMKL/blob/develop/README.md>`__
+oneMKL
 
-* dpNP
+Math Kernel Library.
+
+.. list-table::
+
+  * - `GitHub <https://github.com/oneapi-src/oneMKL>`__
+
+|
+
+dpNP
   
-  * `GitHub <https://github.com/IntelPython/dpnp>`__
-  * `Doc <https://intelpython.github.io/dpnp/>`__
+NumPy-like API accelerated with SYCL
 
-* oneTBB
+.. list-table::
 
-  * `GitHub <https://github.com/oneapi-src/oneTBB>`__
-  * `Doc <https://software.intel.com/content/www/us/en/develop/documentation/onetbb-documentation/top.html>`__
+  * - `GitHub <https://github.com/IntelPython/dpnp>`__
 
-* oneDPL
+|
 
-  * `GitHub <https://github.com/oneapi-src/oneDPL>`__
-  * `Doc <https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-library-guide/top.html>`__
+oneTBB
 
-* Level Zero
+Threading building blocks
 
-  * `GitHub <https://github.com/intel/compute-runtime>`__
-  * `Doc <https://spec.oneapi.io/level-zero/latest/index.html>`__
+.. list-table::
 
-* `MPICH <https://www.mpich.org/>`__
+  * - `GitHub <https://github.com/oneapi-src/oneTBB>`__
 
-  * `GitHub <https://github.com/pmodels/mpich>`__
-  * `Doc <https://www.mpich.org/documentation/guides>`__
+|
+
+oneDPL
+
+Library for implementing data parallel algorithms with DPC++
+
+.. list-table::
+
+  * - `GitHub <https://github.com/oneapi-src/oneDPL>`__
+
+|
+
+Level Zero
+
+Low-level runtime for oneAPI
+
+.. list-table::
+
+  * - `GitHub <https://github.com/intel/compute-runtime>`__
+
+|
+
+MPICH
+
+High-performance implementation of MPI
+
+.. list-table::
+
+  * - `GitHub <https://github.com/pmodels/mpich>`__
+    - `Web <https://www.mpich.org/>`__
 
   
 Tools
 =====
 
-* `HPCToolkit <http://hpctoolkit.org/>`__ from Rice University
+|
 
-  * `GitHub <https://github.com/HPCToolkit/hpctoolkit>`__
-  * `Doc <https://github.com/HPCToolkit/hpctoolkit#documentation>`__
+HPCToolkit
+
+Profiling toolkit from Rice University
+
+.. list-table::
+
+  * - `GitHub <https://github.com/HPCToolkit/hpctoolkit>`__
+    - `Web <http://hpctoolkit.org/>`__
 
